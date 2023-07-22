@@ -3,7 +3,7 @@
 This project uses OCR library (tesseract) to convert text in screenshotted image and copies it to your clipboard.
 
 **Requirements:** <br>
-Python
+Python <br>
 AutoHotKey - Optional
 
 
