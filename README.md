@@ -2,7 +2,7 @@
 # Windows Only #
 This project uses OCR library (Tesseract) to convert text in screenshotted image and copies it to your clipboard.
 
-The Tesseract library for Windows is the courtesy of UB Mannheim. (https://github.com/UB-Mannheim/tesseract/wiki)
+The Tesseract library for Windows is the courtesy of UB Mannheim. (https://github.com/UB-Mannheim/tesseract/wiki) <br>
 The zip linked below is extracted after running their Windows executable setup.
 
 **Requirements:** <br>
