@@ -15,7 +15,7 @@ AutoHotKey - Optional
 Images with solid backgrounds only give reliable results for now.
 
 **Setup:**<br>
-Get Tesseract-OCR.zip and extract it to the folder containing the two executables.
+Get Tesseract-OCR.zip (https://drive.google.com/drive/folders/1rSJ288_fuCjU80S8U1NCahQjW1Ao2sDq?usp=sharing) and extract it to the folder containing the two executables.
 
 **Your directory should look like:** <br>
 Image2Clipboard Parent Folder <br>
