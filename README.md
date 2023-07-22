@@ -21,5 +21,5 @@ Your directory should look like:
 
 Image2Clipboard Parent Folder <br>
 -Tesseract-OCR <br>
--Image to Clipboard.exe
+-Image to Clipboard.exe <br>
 -Shortcut Enabler Alt_S.exe
