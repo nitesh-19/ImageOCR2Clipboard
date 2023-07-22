@@ -18,5 +18,6 @@ Images with solid backgrounds only give reliable results for now.
 Get Tesseract-OCR.zip (https://drive.google.com/drive/folders/1rSJ288_fuCjU80S8U1NCahQjW1Ao2sDq?usp=sharing) and extract it to the folder containing the two executables.
 
 **Your directory should look like:** <br>
-![image](https://github.com/nitesh-19/Image2Clipboard/assets/64160155/c4ee32f5-d3a3-48c9-80aa-28fa586f47c5)
+![image](https://github.com/nitesh-19/Image2Clipboard/assets/64160155/22b5347c-81de-47d2-be23-f6efc43982d8)
+
 
