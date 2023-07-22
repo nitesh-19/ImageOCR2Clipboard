@@ -19,7 +19,4 @@ Get Tesseract-OCR.zip (https://drive.google.com/drive/folders/1rSJ288_fuCjU80S8U
 
 **Your directory should look like:** <br>
 ![image](https://github.com/nitesh-19/Image2Clipboard/assets/64160155/c4ee32f5-d3a3-48c9-80aa-28fa586f47c5)
-Image2Clipboard Parent Folder <br>
--Tesseract-OCR <br>
--Image to Clipboard.exe <br>
--Shortcut Enabler Alt_S.exe
+
