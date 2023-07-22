@@ -8,7 +8,7 @@ AutoHotKey - Optional
 
 
 **Usage:**<br>
-1. Press Win+Alt+S to take a cropped screenshot.
+1. Press Win+Shift+S to take a cropped screenshot.
 2. After the screenshot is copied to the clipboard, Press Alt+S to run the OCR algorithm. (Only if you have set up AutoHotKey, Else you need to run the Image2Clipboard.exe everytime you need to run the program.)
 3. The text in the image will now be copied to your clipboard for you to paste.
 
