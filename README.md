@@ -19,7 +19,7 @@ Get Tesseract-OCR.zip and extract it.
 
 Your directory should look like:
 
-Image2Clipboard
---Tesseract-OCR
---Image to Clipboard.exe
---Shortcut Enabler Alt_S.exe
+Image2Clipboard Parent Folder
+-Tesseract-OCR
+-Image to Clipboard.exe
+-Shortcut Enabler Alt_S.exe
