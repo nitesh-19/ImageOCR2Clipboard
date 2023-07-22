@@ -3,8 +3,8 @@
 This project uses OCR library (tesseract) to convert text in screenshotted image and copies it to your clipboard.
 
 **Requirements:** <br>
-Python <br>
-AutoHotKey - Optional
+Python (https://www.python.org/downloads/)<br>
+AutoHotKey - Optional (https://www.autohotkey.com/)
 
 
 **Usage:**<br>
@@ -18,6 +18,7 @@ Images with solid backgrounds only give reliable results for now.
 Get Tesseract-OCR.zip (https://drive.google.com/drive/folders/1rSJ288_fuCjU80S8U1NCahQjW1Ao2sDq?usp=sharing) and extract it to the folder containing the two executables.
 
 **Your directory should look like:** <br>
-![image](https://github.com/nitesh-19/Image2Clipboard/assets/64160155/22b5347c-81de-47d2-be23-f6efc43982d8)
+![image](https://github.com/nitesh-19/Image2Clipboard/assets/64160155/099c5b81-f1f6-4c4d-a4c4-009dc81446d2)
+
 
 
