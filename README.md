@@ -13,3 +13,13 @@ Usage:
 3. The text in image will now be copied to your clipboard for you to paste.
 
 Images with solid backgrounds only give reliable results for now.
+
+Setup:
+Get Tesseract-OCR.zip and extract it.
+
+Your directory should look like:
+
+Image2Clipboard
+--Tesseract-OCR
+--Image to Clipboard.exe
+--Shortcut Enabler Alt_S.exe
