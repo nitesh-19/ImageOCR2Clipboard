@@ -17,7 +17,7 @@ Images with solid backgrounds only give reliable results for now.
 **Setup:**<br>
 Get Tesseract-OCR.zip and extract it to the folder containing the two executables.
 
-**Your directory should look like:**
+**Your directory should look like:** <br>
 Image2Clipboard Parent Folder <br>
 -Tesseract-OCR <br>
 -Image to Clipboard.exe <br>
