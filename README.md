@@ -8,8 +8,7 @@ Tesseract for Windows - Courtesy of UB Mannheim. (https://github.com/UB-Mannheim
 The zip linked below is extracted after running their Windows executable setup.
 
 **Requirements:** <br>
-Python (https://www.python.org/downloads/)<br>
-AutoHotKey - Optional (https://www.autohotkey.com/)
+AutoHotKey - (Optional, If you want to bind a shortcut) (https://www.autohotkey.com/)
 
 **How to Use:**
 1. Press **Win+Shift+S** to take a cropped screenshot of the text that you wish to copy.
