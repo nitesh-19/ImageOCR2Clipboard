@@ -1,4 +1,4 @@
-# Image2Clipboard
+# ImageOCR2Clipboard
 # Windows Only #
 This project uses OCR library (Tesseract) to convert text in screenshotted image and copies it to your clipboard.
 
